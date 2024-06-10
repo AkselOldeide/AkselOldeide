@@ -31,7 +31,7 @@
 
 ### 🚀 Projects & Work
 
-Feel free to explore my repositories to see some of the projects I've been working on. I'm passionate about creating intuitive and beautiful front-end experiences. 
+Check out my featured [Portfolio](https://aksel-oldeide.netlify.app) or feel free to explore my repositories to see some of the projects I've been working on. I'm passionate about creating intuitive and beautiful front-end experiences. 
 
 ### 📚 Currently Learning
 
