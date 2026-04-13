@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 
 - 🏠 **From:** Oslo, Norway
-- 🎂 **Age:** 26
+- 🎂 **Age:** 28
 - 👨‍🎓 **Studying:** Front End Development at Noroff University, Oslo
 - 👨‍💼 **Gender:** Male
 
